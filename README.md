@@ -1,19 +1,44 @@
 # [Hello I am Santosh Dahal](https://dahalsantosh.com.np/) 🙏
 
-[<img height="60" src="twitter.png" />][twitter]
-[<img height="60" src="LinkedIn.png" />][LinkedIn]
 
-# Open Source Projects
-1. Ecommerce design: https://github.com/exendahal/ecommerceXF
-2. Modern UI: https://github.com/exendahal/ModernDesignXF
-3. Diet App UI: https://github.com/exendahal/DietAppXF
-4. Esewa bindings for Xamarin: https://github.com/exendahal/esewaSDK
-5. Khalti bindings for Xamarin: https://github.com/exendahal/KhaltiSDK
-6. IME Pay bindings for Xamarin: https://github.com/exendahal/ImePaySDK
+### Tech I work with 👨🏻‍💻
+<p align="left">
+<img src="xamarin.png" alt="xamarin" width="40" height="40"/> &nbsp;&nbsp;
+<img src="asp.png" alt="aspdotnet" width="40" height="40"/> &nbsp;&nbsp;
+<img src="mssql.png" alt="SQL" width="40" height="40"/> &nbsp;&nbsp;
+<img src="wordpress.png" alt="Wordpress" width="40" height="40"/> &nbsp;&nbsp;
+<img src="python.png" alt="python" width="40" height="40"/> &nbsp;&nbsp;
+</p>
 
-# Find me at
-Twitter: https://twitter.com/exendahal
-LinkedIn : https://www.linkedin.com/in/exendahal/
+***
 
-# Write me at :
+### My Top Contributions 🎖
+
+<table><tr><td valign="top" width="50%">
+
+### UI Designs
+  - Ecommerce design </br>
+  https://github.com/exendahal/ecommerceXF
+- Modern UI </br>
+  https://github.com/exendahal/ModernDesignXF
+- Diet App UI </br>
+  https://github.com/exendahal/DietAppXF
+</td>
+<td valign="top" width="50%">
+
+### AAR bindings for Xamarin Android
+- Esewa bindings for Xamarin </br>
+  https://github.com/exendahal/esewaSDK
+- Khalti bindings for Xamarin </br>
+  https://github.com/exendahal/KhaltiSDK
+- IME Pay bindings for Xamarin </br>
+  https://github.com/exendahal/ImePaySDK
+</td></table>
+
+***
+### Social Profile 💻
+[<img height="45" src="twitter.png" />](https://twitter.com/exendahal) &nbsp;&nbsp;
+[<img height="45" src="LinkedIn.png" />](https://www.linkedin.com/in/exendahal/)
+
+### Write me at 📧
 contact@dahalsantosh.com.np
