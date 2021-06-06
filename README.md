@@ -37,8 +37,8 @@
 
 ***
 ### Social Profile 💻
-[<img height="45" src="twitter.png" />](https://twitter.com/exendahal) &nbsp;&nbsp;
-[<img height="45" src="LinkedIn.png" />](https://www.linkedin.com/in/exendahal/)
+[<img height="46" src="twitter.png" />](https://twitter.com/exendahal) &nbsp;&nbsp;
+[<img height="48" src="LinkedIn.png" />](https://www.linkedin.com/in/exendahal/)
 
 ### Write me at 📧
 contact@dahalsantosh.com.np
