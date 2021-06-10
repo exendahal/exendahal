@@ -21,8 +21,8 @@
   https://github.com/exendahal/ecommerceXF
 - Modern UI </br>
   https://github.com/exendahal/ModernDesignXF
-- Diet App UI </br>
-  https://github.com/exendahal/DietAppXF
+- ISP App UI </br>
+  https://github.com/exendahal/Vianet
 </td>
 <td valign="top" width="50%">
 
