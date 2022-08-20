@@ -18,7 +18,7 @@
 
 ### UI Designs
   - Ecommerce design </br>
-  https://github.com/exendahal/ecommerceXF
+  https://github.com/exendahal/EcommerceMAUI
 - Modern UI </br>
   https://github.com/exendahal/ModernDesignXF
 - ISP App UI </br>
