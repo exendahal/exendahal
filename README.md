@@ -5,9 +5,9 @@
 <p align="left">
 <img src="maui.png" alt="MAUI" width="40" height="40"/> &nbsp;&nbsp;
 <img src="asp.png" alt="aspdotnet" width="40" height="40"/> &nbsp;&nbsp;
-<img src="mssql.png" alt="SQL" width="40" height="40"/> &nbsp;&nbsp;
+<img src="xamarin.png" alt="Xmarin" width="40" height="40"/> &nbsp;&nbsp;
 <img src="wordpress.png" alt="Wordpress" width="40" height="40"/> &nbsp;&nbsp;
-<img src="python.png" alt="python" width="40" height="40"/> &nbsp;&nbsp;
+<img src="avalonia.png" alt="Avalonia" width="40" height="40"/> &nbsp;&nbsp;
 </p>
 
 ***
