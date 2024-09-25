@@ -2,6 +2,7 @@
 
 
 ### Tech I work with 👨🏻‍💻
+
 <p align="left">
 <img src="maui.png" alt="MAUI" width="40" height="40"/> &nbsp;&nbsp;
 <img src="asp.png" alt="aspdotnet" width="40" height="40"/> &nbsp;&nbsp;
@@ -36,9 +37,9 @@
 </td></table>
 
 ***
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=exendahal&label=Profile%20views&color=0e75b6&style=flat" alt="exendahal" /> </p>
+
 ### Social Profile 💻
 [<img height="46" src="twitter.png" />](https://twitter.com/exendahal) &nbsp;&nbsp;
 [<img height="48" src="LinkedIn.png" />](https://www.linkedin.com/in/exendahal/)
 
-### Write me at 📧
-contact@dahalsantosh.com.np
