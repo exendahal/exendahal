@@ -24,7 +24,7 @@
 📌 **Top Open Source Contributions**  
 
 - 📡 [MAUI WiFi Manager](https://github.com/exendahal/maui_wifi_manager)  
-- 🔵 [Dotnet BlueZ Server](https://github.com/exendahal/dotnet_bluez_server)  
+- 🔵 [.Net BlueZ Server](https://github.com/exendahal/dotnet_bluez_server)  
 
 📌 **UI Designs**  
 
