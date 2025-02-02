@@ -1,45 +1,58 @@
-# [Hello I am Santosh Dahal](https://dahalsantosh.com.np/) 🙏
+# [Hello, I'm Santosh Dahal!](https://dahalsantosh.com.np/) 👋🚀  
 
+💻 **Software Engineer | Full-Stack Developer | Mobile & UI Enthusiast**  
 
-### Tech I work with 👨🏻‍💻
+🔹 Passionate about crafting elegant UI/UX and building high-performance mobile, Desktop & web applications.  
+🔹 Contributor to open-source projects and community-driven initiatives.  
+
+---
+
+### 🛠 Tech I Work With  
 
 <p align="left">
-<img src="maui.png" alt="MAUI" width="40" height="40"/> &nbsp;&nbsp;
-<img src="asp.png" alt="aspdotnet" width="40" height="40"/> &nbsp;&nbsp;
-<img src="xamarin.png" alt="Xmarin" width="40" height="40"/> &nbsp;&nbsp;
-<img src="wordpress.png" alt="Wordpress" width="40" height="40"/> &nbsp;&nbsp;
-<img src="avalonia.png" alt="Avalonia" width="40" height="40"/> &nbsp;&nbsp;
+<img src="maui.png" alt="MAUI" width="40" height="40"/> &nbsp;
+<img src="asp.png" alt="ASP.NET Core" width="40" height="40"/> &nbsp;
+<img src="xamarin.png" alt="Xamarin" width="40" height="40"/> &nbsp;
+<img src="avalonia.png" alt="Avalonia" width="40" height="40"/> &nbsp;
+<img src="flutter.png" alt="Flutter" width="40" height="40"/> &nbsp;
 </p>
 
-***
+---
 
-### My Top Contributions 🎖
+### 🎖 My Top Contributions  
 
-<table><tr><td valign="top" width="50%">
+📌 **Top Open Source Contributions**  
 
-### UI Designs
-  - Ecommerce design </br>
-  https://github.com/exendahal/EcommerceMAUI
-- Modern UI </br>
-  https://github.com/exendahal/ModernDesignXF
-- ISP App UI </br>
-  https://github.com/exendahal/Vianet
-</td>
-<td valign="top" width="50%">
+- 📡 [MAUI WiFi Manager](https://github.com/exendahal/maui_wifi_manager)  
+- 🔵 [Dotnet BlueZ Server](https://github.com/exendahal/dotnet_bluez_server)  
 
-### AAR bindings for Xamarin Android
-- Esewa bindings for Xamarin </br>
-  https://github.com/exendahal/esewaSDK
-- Khalti bindings for Xamarin </br>
-  https://github.com/exendahal/KhaltiSDK
-- IME Pay bindings for Xamarin </br>
-  https://github.com/exendahal/ImePaySDK
-</td></table>
+📌 **UI Designs**  
 
-***
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=exendahal&label=Profile%20views&color=0e75b6&style=flat" alt="exendahal" /> </p>
+- 🛒 [Ecommerce UI (MAUI)](https://github.com/exendahal/EcommerceMAUI)  
+- 🎨 [Modern UI (Xamarin)](https://github.com/exendahal/ModernDesignXF)  
+- 🌐 [ISP App UI](https://github.com/exendahal/Vianet)  
 
-### Social Profile 💻
+📌 **AAR Bindings for Xamarin Android**  
+
+- 💰 [Esewa SDK](https://github.com/exendahal/esewaSDK)  
+- 💳 [Khalti SDK](https://github.com/exendahal/KhaltiSDK)  
+- 📲 [IME Pay SDK](https://github.com/exendahal/ImePaySDK)  
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="left">  
+<img src="https://komarev.com/ghpvc/?username=exendahal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />  
+</p>  
+
+---
+
+### 🌍 Connect with Me  
+
 [<img height="46" src="twitter.png" />](https://twitter.com/exendahal) &nbsp;&nbsp;
 [<img height="48" src="LinkedIn.png" />](https://www.linkedin.com/in/exendahal/)
 
+🚀 _Let's collaborate and build something amazing!_ 🚀  
+
+---
