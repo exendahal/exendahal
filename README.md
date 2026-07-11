@@ -14,50 +14,6 @@ I enjoy solving real-world problems with technology — turning tricky requireme
 
 <br />
 
-## 🛠 Tech Stack
-
-<table>
-<tr>
-<td valign="top" width="18%"><strong>Languages</strong></td>
-<td valign="top">
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-</td>
-</tr>
-<tr>
-<td valign="top"><strong>Mobile & Cross-Platform</strong></td>
-<td valign="top">
-  <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET MAUI" />
-  <img src="https://img.shields.io/badge/Xamarin-3498DB?style=flat-square&logo=xamarin&logoColor=white" alt="Xamarin" />
-  <img src="https://img.shields.io/badge/Avalonia-9A2EFE?style=flat-square&logo=avaloniaui&logoColor=white" alt="Avalonia" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-</td>
-</tr>
-<tr>
-<td valign="top"><strong>Embedded & UI</strong></td>
-<td valign="top">
-  <img src="https://img.shields.io/badge/LVGL-FF6600?style=flat-square&logo=lvgl&logoColor=white" alt="LVGL" />
-  <img src="https://img.shields.io/badge/Avalonia-9A2EFE?style=flat-square&logo=avaloniaui&logoColor=white" alt="Avalonia" />
-</td>
-</tr>
-<tr>
-<td valign="top"><strong>Backend & Web</strong></td>
-<td valign="top">
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
-</td>
-</tr>
-<tr>
-<td valign="top"><strong>Data & Tools</strong></td>
-<td valign="top">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</td>
-</tr>
-</table>
-
 ## 🏆 Featured Projects & Contributions
 
 **Open Source**
@@ -86,10 +42,6 @@ I enjoy solving real-world problems with technology — turning tricky requireme
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=exendahal&show_icons=true&theme=tokyonight&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exendahal&layout=compact&theme=tokyonight" height="165" alt="Top Languages" />
-</p>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=exendahal&theme=tokyonight" height="165" alt="GitHub Streak" />
 </p>
