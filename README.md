@@ -32,13 +32,12 @@ I enjoy solving real-world problems with technology — turning tricky requireme
 | [Modern UI (Xamarin)](https://github.com/exendahal/ModernDesignXF) | Modern design showcase for Xamarin.Forms |
 | [ISP Dashboard UI](https://github.com/exendahal/Vianet) | Dashboard UI for an ISP customer portal |
 
-**Xamarin Android Bindings (AAR)**
+**.NET MAUI Payment SDKs**
 
 | Project | Description |
 | --- | --- |
-| [Esewa SDK](https://github.com/exendahal/esewaSDK) | Xamarin binding for the Esewa payment SDK |
-| [Khalti SDK](https://github.com/exendahal/KhaltiSDK) | Xamarin binding for the Khalti payment SDK |
-| [IME Pay SDK](https://github.com/exendahal/ImePaySDK) | Xamarin binding for the IME Pay SDK |
+| [eSewa MAUI](https://github.com/exendahal/esewa_maui) | .NET MAUI bindings for the native eSewa payment SDK (Android & iOS) — accept eSewa payments with a single async call |
+| [Khalti MAUI](https://github.com/exendahal/khalti_maui) | .NET MAUI library for integrating Khalti payment processing into mobile apps (Android & iOS) |
 
 ## 📊 GitHub Stats
 
